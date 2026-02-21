@@ -19,6 +19,6 @@ Bienvenue dans mon univers mélangeant " jeux terminal anime" et " outils de cyb
 2. Installe Python 3.x
 3. Exécute les scripts : `python3 script.py`
 
-4) 🔒 Disclaimer
-Tous les outils de cybersécurité sont " à usage éducatif uniquement ".
-Aucune attaque illégale ou test sur site réel sans autorisation n'est toléré.
+4) 🔒 Disclaimer:
+- Tous les outils de cybersécurité sont " à usage éducatif uniquement ".
+- Aucune attaque illégale ou test sur site réel sans autorisation n'est toléré.
