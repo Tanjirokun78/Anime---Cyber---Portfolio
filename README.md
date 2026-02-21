@@ -20,5 +20,5 @@ Bienvenue dans mon univers mélangeant " jeux terminal anime" et " outils de cyb
 3. Exécute les scripts : `python3 script.py`
 
 4) 🔒 Disclaimer
-Tous les outils de cybersécurité sont " à usage éducatif uniquement " .
+Tous les outils de cybersécurité sont " à usage éducatif uniquement ".
 Aucune attaque illégale ou test sur site réel sans autorisation n'est toléré.
